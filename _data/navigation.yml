@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Compare
+  link: /password_managers_compare.html
+- name: Search
+  link: /password_managers_search.html
