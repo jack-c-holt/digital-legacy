@@ -1,5 +1,5 @@
 - name: Home
-  link: /
+  link: index.html
 - name: Compare
   link: password_managers_compare.html
 - name: Search
