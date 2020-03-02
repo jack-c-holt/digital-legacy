@@ -1,6 +1,6 @@
 - name: Home
   link: digital-legacy/
 - name: Compare
-  link: digital-legacy/password_managers_compare.html
+  link: /password_managers_compare.html
 - name: Search
-  link: digital-legacy/password_managers_search.html
+  link: /password_managers_search.html
