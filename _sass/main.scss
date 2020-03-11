@@ -1,7 +1,5 @@
-.current {
-    color: black;
-  }
-
-#sitenav {
-  text-align: center;
+.ui.table thead tr:first-child > th {
+  position: sticky !important;
+  top: 0;
+  z-index: 2;
 }

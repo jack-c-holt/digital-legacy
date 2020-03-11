@@ -1,7 +1,57 @@
-<nav class="ui" id="sitenav">
-    {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>
-        {{ item.name }}
-      </a>
-    {% endfor %}
+<nav class="ui inverted menu" id="sitenav">
+    <a class="item" href="index.html">Home</a>
+    <div class="ui dropdown item">
+      About
+      <i class="dropdown icon" tabindex="0"></i>
+      <div class="menu transition hidden" tabindex="-1">
+        <div class="item">What Is This Website?</div>
+        <div class="item">What Is Digital Legacy</div>
+        <div class="item">What Is Post-mortem Privacy</div>       
+      </div>
+    </div>
+
+    <div class="ui dropdown item">
+      What To Plan For
+      <i class="dropdown icon" tabindex="0"></i>
+      <div class="menu transition hidden" tabindex="-1">
+        <div class="item">Mapping Out Your Digital Life</div>
+        <div class="item">The Meaningful</div>
+        <div class="item">The Valuable</div>
+        <div class="item">The Public</div>
+        <div class="item">The Private</div>        
+      </div>
+    </div>
+
+    <div class="ui dropdown item">
+      Dealing With Passwords
+      <i class="dropdown icon" tabindex="0"></i>
+      <div class="menu transition hidden" tabindex="-1">
+        <div class="item">Overview</div>
+        <div class="header">Password Managers</div>
+        <div class="ui pointing dropdown link item" href="password_managers_functionality.html">   
+          <i class="dropdown icon"></i>
+          <span class="text">Types Of Digital Legacy Functionality</span>          
+          <div class="menu">
+            <a class="item" href=".html">Emergency Contact</a>
+            <a class="item" href=".html">Emergency Kit</a>
+            <a class="item" href=".html">Account Recovery</a>
+            <a class="item" href=".html">Password Sharing</a>
+          </div>           
+        </div>     
+        <div class="item" href="password_managers_functionality.html">             
+          <i class="dropdown icon"></i>
+          <span class="text">Compare Password Managers</span>          
+          <div class="menu">
+            <a class="item" href="password_managers_search.html">Search</a>
+            <a class="item" href="password_managers_compare.html">Table</a>         
+          </div>           
+        </div>         
+
+        <div class="header">Homemade Solutions</div>
+        <div class="item">Written Passwords</div>
+        <div class="item">Dead Man's Switches</div>
+        <div class="item">Encrypted USBs</div>
+        
+      </div>
+    </div>
 </nav>
