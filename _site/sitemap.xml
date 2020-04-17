@@ -4,6 +4,12 @@
 <loc>http://localhost:4000/emergencycontact/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/emergencykit/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/passwordsharing/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
