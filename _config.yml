@@ -2,6 +2,8 @@ collections:
   authors:
     output: true
 
+baseurl: "/digital-legacy"
+
 defaults:
   - scope:
       path: ""
