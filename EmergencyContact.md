@@ -31,4 +31,4 @@ Across password manager designs, there are some elements that vary. Notably:
 - The types of contents that can be transferred in this way. For example, whether it includes secure notes or other files.
 - The extent to which the giver is able to control how much of their account is passed
 
-We keep a list of password managers and details of their emergency contact functionality (and other relevant features) here. If a password manager does an emergency contact feature, you will find a link to their documentation, which should contain all of the information you need.
+We keep a list of password managers and details of their emergency contact functionality (and other relevant features) here. If a password manager does have an emergency contact feature, you will find a link to their documentation, which should contain all of the information you need.
