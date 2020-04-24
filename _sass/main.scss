@@ -8,3 +8,26 @@
   font-size: 0.8em;
   display: inline;
 }
+
+.wrap {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: auto;
+}
+
+main {
+  flex: 1;
+  display: flex;
+}
+
+footer {
+  text-align: center;  
+  margin-top: 20px;
+  border-top: 1px black;
+}
+
+.copyright {
+  background-color: white;
+  margin-top: 20px;
+}
