@@ -1,52 +1,52 @@
 - title: Finding Your Motivation
-  url: /FindingYourMotivation/
+  url: /DigitalLegacyGuide/FindingYourMotivation/
   submenu: 
   - title: Identifying Value For Others
-    url: /ValueForOthers/
+    url: /DigitalLegacyGuide/ValueForOthers/
   - title: Identifying Value For Yourself
-    url: /ValueForYourself/
+    url: /DigitalLegacyGuide/ValueForYourself/
   - title: Finding A Balance
-    url: /FindingABalance/
+    url: /DigitalLegacyGuide/FindingABalance/
 - title: Breaking Down Your Needs
-  url: /BreakingDownYourNeeds/
+  url: /DigitalLegacyGuide/BreakingDownYourNeeds/
   submenu: 
   - title: Taking An Inventory
-    url: /TakingAnInventory/
+    url: /DigitalLegacyGuide/TakingAnInventory/
   - title: Separating The Valuable
-    url: /SeparatingTheValuable/
+    url: /DigitalLegacyGuide/SeparatingTheValuable/
   - title: What Is To Be Shared
-    url: /WhatIsToBeShared/
+    url: /DigitalLegacyGuide/WhatIsToBeShared/
   - title: What Is To Be Destroyed
-    url: /WhatIsToBeDestroyed/
+    url: /DigitalLegacyGuide/WhatIsToBeDestroyed/
   - title: Identifying The Recipients
-    url: /IdentifyingTheRecipients/
+    url: /DigitalLegacyGuide/IdentifyingTheRecipients/
   - title: Deciding On A Timeframe
-    url: /DecidingOnATimeframe/
+    url: /DigitalLegacyGuide/DecidingOnATimeframe/
 - title: Implementing A Plan
-  url: /ImplementingAPlan/
+  url: /DigitalLegacyGuide/ImplementingAPlan/
   submenu:
-  - title: Sharing Now When You Can
-    url: /SharingNow/
+  - title: Sharing Now
+    url: /DigitalLegacyGuide/SharingNow/
   - title: Addressing Physical Devices
-    url: /AddressingPhysicalDevices/
+    url: /DigitalLegacyGuide/AddressingPhysicalDevices/
   - title: Using Bespoke Functionality
-    url: /UsingBespokeFunctionality/
+    url: /DigitalLegacyGuide/UsingBespokeFunctionality/
   - title: Sharing Passwords (Overview)
-    url: /SharingPasswordsOverview/
+    url: /DigitalLegacyGuide/SharingPasswordsOverview/
   - title: Staying Secure
-    url: /StayingSecure/
+    url: /DigitalLegacyGuide/StayingSecure/
 - title: Communicating To Others
-  url: /CommunicatingToOthers/
+  url: /DigitalLegacyGuide/CommunicatingToOthers/
   submenu:
   - title: The Burden Of Messy Data
-    url: /TheBurdenOfMessyData/
+    url: /DigitalLegacyGuide/TheBurdenOfMessyData/
   - title: Combining With Your Will
-    url: /CombiningWithYourWill/
+    url: /DigitalLegacyGuide/CombiningWithYourWill/
   - title: Sharing Instructions
-    url: Sharing Instrutions
+    url: /DigitalLegacyGuide/SharingInstructions/
   - title: Leaving A Message
-    url: /LeavingAMessage/
+    url: /DigitalLegacyGuide/LeavingAMessage/
   - title: Having A Difficult Conversation
-    url: /HavingADifficultConversation/
+    url: /DigitalLegacyGuide/HavingADifficultConversation/
 - title: Regular Review
-  url: /RegularReview/
+  url: /DigitalLegacyGuide/RegularReview/

@@ -5,15 +5,14 @@
     <div class="ui left dividing rail">
        
         <div class="ui vertical inverted menu">
-        <p class="item header ">Digital Legacy Guide</p>
-
+        <a class="item header" href= "{{ site.baseurl }}/DigitalLegacyGuide/Overview/">Digital Legacy Guide</a>
         
         {% for item in sidebar_content %}        
-            <a href={{item.url}} {% if item.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ item.title }}</a>
+            <a href={{item.url}} {% if item.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ site.baseurl }}{{ item.title }}</a>
             {% if item.submenu %}
                 <div class="menu">
                 {% for subitem in item.submenu %}
-                <a href={{subitem.url}} {% if subitem.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ subitem.title }}</a>
+                <a href={{subitem.url}} {% if subitem.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ site.baseurl }}{{ subitem.title }}</a>
                 
                 {% endfor %}
                 </div>
