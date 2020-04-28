@@ -7,3 +7,46 @@
     url: /ValueForYourself/
   - title: Finding A Balance
     url: /FindingABalance/
+- title: Breaking Down Your Needs
+  url: /BreakingDownYourNeeds/
+  submenu: 
+  - title: Taking An Inventory
+    url: /TakingAnInventory/
+  - title: Separating The Valuable
+    url: /SeparatingTheValuable/
+  - title: What Is To Be Shared
+    url: /WhatIsToBeShared/
+  - title: What Is To Be Destroyed
+    url: /WhatIsToBeDestroyed/
+  - title: Identifying The Recipients
+    url: /IdentifyingTheRecipients/
+  - title: Deciding On A Timeframe
+    url: /DecidingOnATimeframe/
+- title: Implementing A Plan
+  url: /ImplementingAPlan/
+  submenu:
+  - title: Sharing Now When You Can
+    url: /SharingNow/
+  - title: Addressing Physical Devices
+    url: /AddressingPhysicalDevices/
+  - title: Using Bespoke Functionality
+    url: /UsingBespokeFunctionality/
+  - title: Sharing Passwords (Overview)
+    url: /SharingPasswordsOverview/
+  - title: Staying Secure
+    url: /StayingSecure/
+- title: Communicating To Others
+  url: /CommunicatingToOthers/
+  submenu:
+  - title: The Burden Of Messy Data
+    url: /TheBurdenOfMessyData/
+  - title: Combining With Your Will
+    url: /CombiningWithYourWill/
+  - title: Sharing Instructions
+    url: Sharing Instrutions
+  - title: Leaving A Message
+    url: /LeavingAMessage/
+  - title: Having A Difficult Conversation
+    url: /HavingADifficultConversation/
+- title: Regular Review
+  url: /RegularReview/
