@@ -1,26 +1,19 @@
 {% assign sidebar_content = site.data.sidebar %}
   
-  <div class = "ui segment" style="left:400px;width:600px;">
-    
-    <div class="ui left dividing rail">
-       
-        <div class="ui vertical inverted menu">
+
+        <div class="ui vertical inverted menu" id="guide_sidebar">
         <a class="item header" href= "{{ site.baseurl }}/DigitalLegacyGuide/Overview/">Digital Legacy Guide</a>
         
         {% for item in sidebar_content %}        
-            <a href={{item.url}} {% if item.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ site.baseurl }}{{ item.title }}</a>
+            <a href={{ site.baseurl }}{{item.url}} {% if item.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ item.title }}</a>
             {% if item.submenu %}
                 <div class="menu">
                 {% for subitem in item.submenu %}
-                <a href={{subitem.url}} {% if subitem.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ site.baseurl }}{{ subitem.title }}</a>
+                <a href={{ site.baseurl }}{{subitem.url}} {% if subitem.url == page.url %} class="active item" {% else %} class="item" {% endif %}>{{ subitem.title }}</a>
                 
                 {% endfor %}
                 </div>
             {% endif %}
         {% endfor %}
         </div>
-    </div>
-</div>
-
-
 

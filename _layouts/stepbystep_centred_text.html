@@ -14,17 +14,27 @@
   <body>
     <div class="wrap">      
       {% include navigation.html %}
-      {% include sidebar.html %}
-    
-      <br>
-        <main class="ui main text container">
-        {{ content }}
-        </main>
-      <br>
-      <br>
-
+      <main class="main ui grid">
+      <!--<div class="ui grid container"> -->       
+        <div class="ui four wide column">
+          {% include sidebar.html %}
+        </div>
+        <div class="ui eight wide column">
+          
+            {{ content }}
+          
+          <br>
+          <br>
+        </div>
+        <div class="ui four wide column"></div>
+      <!--</div>-->
+    </main>
+      
+      
+        
     {% include footer.html %}  
-  </div>
+    </div>    
+    
   </body>
   <script src="{{ site.baseurl }}/assets/js/app.js"></script>
 </html>
