@@ -21,13 +21,13 @@ Every person's needs will be different. Some will have a small digital footprint
 
 On this website, you will find a step-by-step guide to help you create a digital legacy plan that's appropriate for you, consisting of the following four sections:
 
-#### Step by Step (part 1): Finding Your Motivation
+#### Digital Legacy Guide (part 1): Finding Your Motivation
 
-#### Step by Step (part 2): Breaking Down Your Needs
+#### Digital Legacy Guide (part 2): Breaking Down Your Needs
 
-#### Step by Step (part 3): Implementing a Plan
+#### Digital Legacy Guide (part 3): Implementing a Plan
 
-#### Step by Step (part 4): Communicating to Others
+#### Digital Legacy Guide (part 4): Communicating to Others
 
 ### Additional information and resources to support your digital legacy planning
 

@@ -12,13 +12,19 @@
     {% seo %}
   </head>
   <body>
-    <div class="pusher">
+    <div class="wrap">      
       {% include navigation.html %}
-      {{ content }}
+      {% include sidebar.html %}
+    
+      <br>
+        <main class="ui main text container">
+        {{ content }}
+        </main>
       <br>
       <br>
-      {% include footer.html %}      
-    </div>
+
+    {% include footer.html %}  
+  </div>
   </body>
   <script src="{{ site.baseurl }}/assets/js/app.js"></script>
 </html>
