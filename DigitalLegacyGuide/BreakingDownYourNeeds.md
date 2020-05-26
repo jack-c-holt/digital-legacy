@@ -14,7 +14,7 @@ permalink: "/DigitalLegacyGuide/BreakingDownYourNeeds/"
 - This need only be fully done once, but you should return to it on occasion to amend it
 
 
-By the end of this section you should have:
+By the end of this section you will have:
 
 - Identified for yourself the main digital elements that need some degree of planning
 - Specified for each item whether you are seeking its preservation or deletion
