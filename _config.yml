@@ -2,7 +2,7 @@ collections:
   authors:
     output: true
 
-baseurl: "/digital-legacy"
+baseurl: "/"
 
 defaults:
   - scope:
@@ -27,4 +27,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  
